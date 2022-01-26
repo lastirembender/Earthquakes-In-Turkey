@@ -13,11 +13,12 @@ In this project, I used the dataset in the link for data visualization. I would 
 
 I used [**Power BI**](https://powerbi.microsoft.com/en-us/desktop/) for data visualization because Power BI is easy to use, useful, strong and a very good software in terms of graphics variety. While using this software you can use data from many sources and present your data by visualizing it the way you want. 
 
-![Screenshot](map.png)
+![map](https://user-images.githubusercontent.com/69118634/151245965-5bb2acfc-9a9c-4970-ba1f-3f9944825ce7.JPG)
 
 This chart shows earthquakes in 2020, indicated by size and location. 
 
-![Screenshot](three_graphic.png)
+
+![three_graphic](https://user-images.githubusercontent.com/69118634/151246026-b2bab686-e0cd-4e11-ab3d-a1704a4d3b85.JPG)
 
 These graphs represent (upper left) the distribution of the total number of earthquakes experienced in the last 100 years according to their magnitudes, (lower left) the distribution of the depths of earthquakes by years, (right) the distribution of the number of earthquakes experienced in the last 100 years by years. 
 
