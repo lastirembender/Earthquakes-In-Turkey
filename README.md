@@ -1,5 +1,7 @@
 # Earthquakes-In-Turkey
 
+![Gray Fashion Initial Logo](https://user-images.githubusercontent.com/69118634/151250831-d218b3d4-b224-41e8-9cf5-2b087c5b83c6.gif)
+
 Many people passed away because of disasters in the world. Flood, avalanche, cyclone and many others... In Turkey, frequency of natural disaster can change to regions but earthquake almost every regions problem. Every year, many earthquakes of different intensities occur. Subject of this project is "Earthquakes in Turkey" 
 
 ## Data
@@ -20,8 +22,9 @@ This chart shows earthquakes in 2020, indicated by size and location.
 
 ![three_graphic](https://user-images.githubusercontent.com/69118634/151246026-b2bab686-e0cd-4e11-ab3d-a1704a4d3b85.JPG)
 
-These graphs represent (upper left) the distribution of the total number of earthquakes experienced in the last 100 years according to their magnitudes, (lower left) the distribution of the depths of earthquakes by years, (right) the distribution of the number of earthquakes experienced in the last 100 years by years. 
+These charts represent (upper left) the distribution of the total number of earthquakes experienced in the last 100 years according to their magnitudes, (lower left) the distribution of the depths of earthquakes by years, (right) the distribution of the number of earthquakes experienced in the last 100 years by years. 
 
+(The photograph used in the background is the photograph of a building destroyed as a result of the 2020 Izmir Earthquake. I offer my sincere condolences to the families of the people who died in that earthquake.)
 
 ## Libraries Used
 
